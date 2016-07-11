@@ -30,10 +30,8 @@
 ###5.[Facebook](http://code.facebook.com/)
 ###6.[Twitter](http://blog.twitter.com/engineering)
 ###7.[coolshell](http://coolshell.cn)
-<<<<<<< Updated upstream
+###8.[wooyun](http://wiki.wooyun.org/)
 ###9.[DiyCodes](https://github.com/DiyCodes/code_news)
 
-=======
-###8.[wooyun](http://wiki.wooyun.org/)
->>>>>>> Stashed changes
+
 
