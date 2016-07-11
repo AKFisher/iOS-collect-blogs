@@ -16,6 +16,9 @@
 ###12.[Bang's Blog](http://blog.cnbang.net/archives/)
 ###13.[百度iOS技术周报](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)
 ###14.[MrPeak技术分享](http://mrpeak.cn/)
+###15.[王垠的个人博客](http://www.yinwang.org/)
+###16.[阮一峰](http://www.ruanyifeng.com/blog/)
+
 
 
 
@@ -26,3 +29,4 @@
 ###4.[蘑菇街](http://mogu.io/)
 ###5.[Facebook](http://code.facebook.com/)
 ###6.[Twitter](http://blog.twitter.com/engineering)
+###7.[coolshell](http://coolshell.cn)
